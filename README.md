@@ -1,5 +1,7 @@
 <center><h1>🎶 Spotify Exploratory Data Analysis 🎶</h1></center>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cmulay.spotify-eda)
+
 ## Purpose
 
 - The music industry is expanding faster than ever before. This market is fast expanding and getting more competitive. Companies must differentiate themselves by offering unique, artist-focused content or by inventing new pricing strategies. 
