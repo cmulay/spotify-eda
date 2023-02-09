@@ -29,6 +29,7 @@ There are 9 columns in this dataset and their description are as follows.
 - Visualization of Artist Popularity
 - Streams by region
 - Top200 and Viral50 Songs in India Region
+- Exploring and Visualizing Artist Diversity in India region for Top200 and Viral50
 - EDA using Apache Spark
 - Exploring Top200 and Viral50 Chart
 - Trends in Top200 and Viral50
